@@ -40,7 +40,7 @@ Please reference the following link: https://weather-gov.github.io/api/general-f
 
 ## When Finished
 
-When you have completed the assessment, email molly@ascentitech.com with your zipped repository and answer the following questions as honestly as you can.  
+When you have completed the assessment, email molly@ascentitech.com with the link to your new repository and answer the following questions as honestly as you can.  
 
 ## Final Questions
 1) How long did the assessment take to complete?  Was there any task that took significantly longer than the others, and if so why?
