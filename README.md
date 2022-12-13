@@ -1,6 +1,6 @@
 # Full Stack Assesment
 ## Introduction
-You will be implementing an Android application that will call the national weather api and populate the forecast on a screen.
+You will be implementing an Android application using Android Studio that will call the national weather api and populate the forecast on a screen.
 
 All reasources and architecture has been provided to you. It will be your job to implement these resources into a functioning weather forecast app.
 
